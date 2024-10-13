@@ -1,21 +1,21 @@
 warp-gui:
-  name: ''
-  size: 9
+  name: '&cWARP'
+  size: 18
   buttons:
     pvp:
-      name: ''
+      name: '&cpvp'
       Material: DIAMOND
       slot: 4
       lore:
-        - 'This is first line'
-        - 'Second line'
+        - '&cclciok for pvp'
+        - '&apls'
       location:
-        x: 1
+        x: -51
         y: 2
-        z: 3
-        world: world
+        z: 4
+        world: general
     koth:
-      name: ''
+      name: 'yes'
       Material: EMERALD
       slot: 3
       lore:
